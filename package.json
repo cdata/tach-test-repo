@@ -1,0 +1,23 @@
+{
+  "name": "tach-test-repo",
+  "version": "0.0.1",
+  "description": "A project for testing Tachometer features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bench": "tach --config ./tachometer.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdata/tach-test-repo.git"
+  },
+  "author": "Chris Joel",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/cdata/tach-test-repo/issues"
+  },
+  "homepage": "https://github.com/cdata/tach-test-repo#readme",
+  "devDependencies": {
+    "tachometer": "^0.4.21"
+  }
+}
