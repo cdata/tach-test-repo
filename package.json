@@ -17,7 +17,5 @@
     "url": "https://github.com/cdata/tach-test-repo/issues"
   },
   "homepage": "https://github.com/cdata/tach-test-repo#readme",
-  "devDependencies": {
-    "tachometer": "^0.4.21"
-  }
+  "dependencies": {}
 }
